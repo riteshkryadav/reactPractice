@@ -1,0 +1,22 @@
+.containerStyle {
+  background-color: aliceblue;
+  height: 10vh;
+  width: 100vw;
+  font-size: 32px;
+  align-items: center;
+  margin-left: 30px;
+}
+.btn {
+  background-color: black;
+  color: white;
+  padding-left: 10px;
+}
+
+.navbarLink {
+  text-decoration: none;
+  color: black;
+  font-size: 32px;
+  margin-left: 40px;
+  margin-right: 30px;
+  text-align: center;
+}
